@@ -1,0 +1,8 @@
+crow
+libtgbot-cpp-git
+osu
+osu-lazer-appimage
+outline-client-appimage
+upgrade
+yandex-music
+yay-debug
